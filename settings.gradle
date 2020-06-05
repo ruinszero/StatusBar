@@ -1,0 +1,4 @@
+include ':statusbar'
+include ':statusbar'
+include ':app'
+rootProject.name = "StatusBar"
